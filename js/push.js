@@ -1,4 +1,4 @@
-function shunno_push_api() {
+function push_api() {
   if (!Notification) {
     alert('Hello World!'); 
     return;
